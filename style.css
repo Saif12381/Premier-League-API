@@ -11,6 +11,7 @@ html::before {
   color: white;
   padding: 4px 8px;
   border-radius: 4px;
+  background-color: rgb(57, 52, 61);
 }
 
 .header {
